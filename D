@@ -1,0 +1,8 @@
+Se terminó el proyecto original con html, css y js conpletados
+por ello hay que mejorar las secciones y completar las nuevas paginas snexas
+hacer js psra tener una pagina por cada producto con mas detalles
+mejorar la cinta superior 
+implementar un sorteo automático de descuento sl iniciar la página como hsce tenu
+implementar la pasarela de pagos
+mejorar el acceso
+conectarlo s una base de datos 
