@@ -6,3 +6,5 @@ implementar un sorteo automático de descuento sl iniciar la página como hsce t
 implementar la pasarela de pagos
 mejorar el acceso
 conectarlo s una base de datos 
+terminar el curso de javascript avanzado
+conectar postgresql
