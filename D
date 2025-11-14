@@ -8,3 +8,5 @@ mejorar el acceso
 conectarlo s una base de datos 
 terminar el curso de javascript avanzado
 conectar postgresql
+mejir usar sql server express
+
