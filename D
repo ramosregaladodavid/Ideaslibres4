@@ -11,4 +11,6 @@ conectar postgresql
 mejir usar sql server express
 hacer backend en java
 coloeltar patrones y pasarela de pagos
+agregar fsctura o recibo
+agregar auténticador
 
